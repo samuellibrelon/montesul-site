@@ -382,7 +382,7 @@ a {
   align-items: center;
   justify-content: center;
   color: var(--brand-black);
-  background-color: var(--yellow-main);
+  background-color: #ffffff;
   border-radius: 50%;
   transition: transform 0.25s ease;
 }
