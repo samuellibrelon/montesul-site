@@ -299,8 +299,12 @@ a {
   display: inline-block;
 }
 
-#atuacao .row > div:nth-child(2n) .service-card i {
-  color: var(--blue-main);
+#atuacao .row > div:nth-child(1) .service-card {
+  border-top: 4px solid var(--green-main);
+}
+
+#atuacao .row > div:nth-child(2) .service-card {
+  border-top: 4px solid var(--blue-main);
 }
 
 #atuacao .row > div:nth-child(3) .service-card {
@@ -401,7 +405,7 @@ a {
 }
 
 .contact-card a:not(.btn) {
-  color: var(--blue-main);
+  color: var(--green-dark);
   font-weight: 600;
 }
 
