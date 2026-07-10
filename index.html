@@ -38,7 +38,13 @@
       aria-label="Menu principal"
     >
       <div class="container">
-        <a class="navbar-brand fw-bold text-success" href="#"> MONTESUL </a>
+        <a class="navbar-brand" href="#" aria-label="MONTESUL - Início">
+          <img
+            src="assets/img/logo.png"
+            alt="Logo da MONTESUL"
+            class="brand-logo"
+          />
+        </a>
 
         <button
           class="navbar-toggler"
@@ -282,8 +288,9 @@
                   <li>Doações via chave Pix</li>
                 </ul>
 
-                <a href="#contato" class="btn btn-light mt-3">
-                  Entrar em contato
+                <a href="#contato" class="btn support-cta mt-4">
+                  <span>Entrar em contato</span>
+                  <i class="bi bi-arrow-right" aria-hidden="true"></i>
                 </a>
               </div>
             </div>
@@ -337,14 +344,32 @@
                   Rua dos Operários, 1365 - Alterosa, Montes Claros - MG
                 </p>
 
-                <p>
-                  <i class="bi bi-clock" aria-hidden="true"></i>
-                  Horário de funcionamento: a confirmar
-                </p>
+                <div class="opening-hours">
+                  <h4>
+                    <i class="bi bi-clock" aria-hidden="true"></i>
+                    Horário de funcionamento
+                  </h4>
+                  <dl>
+                    <div><dt>Segunda-feira</dt><dd>07:00–16:00</dd></div>
+                    <div><dt>Terça-feira</dt><dd>07:00–16:00</dd></div>
+                    <div><dt>Quarta-feira</dt><dd>07:00–16:00</dd></div>
+                    <div><dt>Quinta-feira</dt><dd>07:00–16:00</dd></div>
+                    <div><dt>Sexta-feira</dt><dd>07:00–16:00</dd></div>
+                    <div><dt>Sábado</dt><dd class="closed">Fechado</dd></div>
+                    <div><dt>Domingo</dt><dd class="closed">Fechado</dd></div>
+                  </dl>
+                </div>
 
                 <p>
                   <i class="bi bi-instagram" aria-hidden="true"></i>
-                  Instagram: a confirmar
+                  Instagram:
+                  <a
+                    href="https://www.instagram.com/montesulreciclagem/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    @montesulreciclagem
+                  </a>
                 </p>
 
                 <p>
@@ -364,18 +389,19 @@
               <div class="map-box">
                 <h3>Localização</h3>
                 <p>
-                  Aqui poderá ser inserido o mapa do Google Maps com o endereço
-                  da associação.
+                  Rua dos Operários, 1365 — Alterosa, Montes Claros/MG
                 </p>
 
-                <a
-                  class="btn btn-success"
-                  href="https://www.google.com/maps/search/Rua+dos+Oper%C3%A1rios,+1365,+Alterosa,+Montes+Claros+-+MG"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Ver no Google Maps
-                </a>
+                <div class="map-embed">
+                  <iframe
+                    src="https://www.google.com/maps?q=Rua+dos+Oper%C3%A1rios%2C+1365%2C+Alterosa%2C+Montes+Claros%2C+MG&output=embed"
+                    title="Mapa com a localização da MONTESUL"
+                    loading="lazy"
+                    allowfullscreen
+                    referrerpolicy="no-referrer-when-downgrade"
+                  ></iframe>
+                </div>
+
               </div>
             </div>
           </div>
