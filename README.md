@@ -92,3 +92,53 @@ montesul-site/
 │
 ├── index.html
 └── README.md
+```
+
+## 🎯 Objetivos
+
+Os principais objetivos do projeto são:
+
+1. ampliar a presença digital da MONTESUL;
+2. divulgar o trabalho realizado pela associação;
+3. apresentar seu impacto social e ambiental;
+4. facilitar o contato entre a associação, a comunidade e possíveis parceiros;
+5. incentivar o apoio e a entrega de materiais recicláveis;
+6. disponibilizar uma solução web responsiva, acessível e de fácil utilização.
+
+---
+
+## 🎓 Contexto acadêmico
+
+Este projeto foi desenvolvido como parte da disciplina **Atividade Extensionista II — Tecnologia Aplicada à Inclusão Digital — Projeto**, do curso de **Análise e Desenvolvimento de Sistemas da UNINTER**.
+
+A proposta da atividade extensionista consiste em aplicar conhecimentos adquiridos durante a formação acadêmica em uma demanda real da comunidade.
+
+O projeto envolve desde o levantamento das necessidades e planejamento da solução até o desenvolvimento, publicação e apresentação do website aos representantes da MONTESUL.
+
+---
+
+## 🌱 Impacto
+
+A criação do website fornece à MONTESUL um canal institucional próprio na internet, permitindo centralizar informações importantes sobre a associação e facilitar o acesso da comunidade aos seus canais de contato.
+
+Além da divulgação institucional, o projeto busca contribuir para a valorização do trabalho dos catadores e para a conscientização sobre a importância da reciclagem e do descarte adequado de resíduos.
+
+---
+
+## 🤝 MONTESUL
+
+**MONTESUL — Associação de Montes Claros de Catadores de Recicláveis**
+
+📍 Montes Claros — Minas Gerais
+
+📱 Instagram: [@montesulreciclagem](https://www.instagram.com/montesulreciclagem/)
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Samuel Librelon Pinheiro Lopes**.
+
+Estudante de Análise e Desenvolvimento de Sistemas — UNINTER.
+
+GitHub: [@samuellibrelon](https://github.com/samuellibrelon)
